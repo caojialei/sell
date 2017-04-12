@@ -7,10 +7,13 @@
       <!--<div class="tab-item"><a v-link="{path:'/goods">商品</a></div>-->
       <!--<div class="tab-item"><a v-link="{path:'/goods">评论</a></div>-->
       <!--<div class="tab-item"><a v-link="{path:'/goods">商家</a></div>-->
-      <div class="tab-item"><router-link to='/goods'>商品</router-link></div>
-      <div class="tab-item"><router-link to='/ratings'>评论</router-link></div>
-      <div class="tab-item"><router-link to='/seller'>商家</router-link></div>
-      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅</router-link></div>
+      <div class="tab-item"><router-link to='/goods'>商品2</router-link></div>
+      <div class="tab-item"><router-link to='/ratings'>评论2</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>商家2</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅气</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+1</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+2</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+3</router-link></div>
     </div>
     <router-view></router-view>
   </div>
