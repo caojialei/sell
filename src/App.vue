@@ -10,6 +10,7 @@
       <div class="tab-item"><router-link to='/goods'>商品</router-link></div>
       <div class="tab-item"><router-link to='/ratings'>评论</router-link></div>
       <div class="tab-item"><router-link to='/seller'>商家</router-link></div>
+      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅</router-link></div>
     </div>
     <router-view></router-view>
   </div>
@@ -26,6 +27,7 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
+
   #app
     .tab
       display :flex
