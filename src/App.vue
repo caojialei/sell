@@ -14,9 +14,6 @@
       <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+1</router-link></div>
       <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+2</router-link></div>
       <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+3</router-link></div>
-      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+4</router-link></div>
-      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+5</router-link></div>
-      <div class="tab-item"><router-link to='/seller'>鹏鹏最帅+6</router-link></div>
     </div>
     <router-view></router-view>
   </div>
